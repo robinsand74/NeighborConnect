@@ -10,7 +10,7 @@ NeighborConnect is a community-building app designed to foster connections and c
 - **Safety Alerts**: An integrated system for sharing safety alerts and emergency notifications within the neighborhood. Users can report suspicious activities or safety concerns, helping to keep the community secure.
 - **Lost and Found**: A feature for posting lost or found items within the neighborhood. This can include pets, personal belongings, or even misplaced packages. It facilitates the return of lost items to their rightful owners, strengthening neighborly bonds.
 - **Neighborhood Groups**: Users can join or create groups based on shared interests, hobbies, or concerns. Whether it's a gardening club, book club, or a group focused on neighborhood watch, these groups provide opportunities for like-minded neighbors to connect and collaborate.
-- **Secure Communication**: All communication within the app is encrypted to ensure privacy and security. Users can feel confident sharing information and engaging with their neighbors in a safe environment.
+- **Marketplace** for goods and services, like baby-sitting, dog-walking, garden produce, clothes, or cookies.
 
 NeighborConnect contributes to social cohesion by bridging the gap between neighbors and facilitating meaningful connections. By fostering a sense of community and belonging, the app encourages residents to look out for one another, participate in community events, and collaborate on initiatives to improve their neighborhood.
 
